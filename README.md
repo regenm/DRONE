@@ -1,2 +1,2 @@
 # DRONE
-DRONE ：with low price but wide  
+DRONE ：with low price but wide application
